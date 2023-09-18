@@ -1,0 +1,3 @@
+D:/Programacion/C++/IA/Fundamentos/Avance_1a/cmake-build-debug/CMakeFiles/Avance_1a.dir
+D:/Programacion/C++/IA/Fundamentos/Avance_1a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programacion/C++/IA/Fundamentos/Avance_1a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
